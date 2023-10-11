@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\jackt\AppData\Local\Programs\Python\Python310\Scripts\black.exe" />
+    <option name="sdkUUID" value="f9703968-61c3-48fc-8f16-621de6c2b1c9" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="python311" project-jdk-type="Python SDK" />
+</project>
